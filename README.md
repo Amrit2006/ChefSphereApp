@@ -1,6 +1,6 @@
 ChefSphere -Chef Booking App
 ![Screenshot 2025-05-08 002254](https://github.com/user-attachments/assets/3e1f8845-a4bd-4652-a6e2-78f2b33c1b02)
-![Screenshot 2025-05-08 002254](https://github.com/user-attachments/assets/3e1f8845-a4bd-4652-a6e2-78f2b33c1b02)
+
 
 Overview-
 ChefSphere is an Android application designed to connect users with professional chefs for on-demand culinary experiences. Built using modern Android technologies, ChefSphere offers a user-friendly interface and a robust backend to facilitate seamless chef bookings.
