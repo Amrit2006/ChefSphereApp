@@ -38,7 +38,7 @@ Firebase Realtime Database: Real-time database for data synchronization.
 Google Maps SDK: Integration of Google Maps for location-based features.
 
 ## Screen Shots
-![Screenshot_20250527-235714 ChefSphere](https://github.com/user-attachments/assets/2be5134c-a606-469d-b029-0bb5d396ed96 | width = 100)
+![Screenshot_20250527-235714 ChefSphere](https://github.com/user-attachments/assets/2be5134c-a606-469d-b029-0bb5d396ed96|width=100)
 ![Screenshot_20250527-235719 ChefSphere](https://github.com/user-attachments/assets/ad5b463f-3ee7-484b-a53a-107c50970a48)
 ![Screenshot_20250527-235722 ChefSphere](https://github.com/user-attachments/assets/9f11da88-fe9c-47eb-ac15-f49f8cfdb12a)
 ![Screenshot_20250527-235738 ChefSphere](https://github.com/user-attachments/assets/025e744c-2eca-4f6d-80ab-fcaa8a7ffcd2)
