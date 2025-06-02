@@ -38,19 +38,19 @@ Firebase Realtime Database: Real-time database for data synchronization.
 Google Maps SDK: Integration of Google Maps for location-based features.
 
 ## Screen Shots
-<img src="https://github.com/user-attachments/assets/2be5134c-a606-469d-b029-0bb5d396ed96" width="60"></img>
+<img src="https://github.com/user-attachments/assets/2be5134c-a606-469d-b029-0bb5d396ed96" width="100"></img>
 
-<img src="https://github.com/user-attachments/assets/ad5b463f-3ee7-484b-a53a-107c50970a48" width="60"></img>
+<img src="https://github.com/user-attachments/assets/ad5b463f-3ee7-484b-a53a-107c50970a48" width="100"></img>
 
-<img src="https://github.com/user-attachments/assets/9f11da88-fe9c-47eb-ac15-f49f8cfdb12a" width="60"></img>
+<img src="https://github.com/user-attachments/assets/9f11da88-fe9c-47eb-ac15-f49f8cfdb12a" width="100"></img>
 
-<img src="https://github.com/user-attachments/assets/025e744c-2eca-4f6d-80ab-fcaa8a7ffcd2" width="60"></img>
+<img src="https://github.com/user-attachments/assets/025e744c-2eca-4f6d-80ab-fcaa8a7ffcd2" width="100"></img>
 
-<img src="https://github.com/user-attachments/assets/ff35e742-3be0-4f26-b8e8-834b955f7b78" width="60"></img>
+<img src="https://github.com/user-attachments/assets/ff35e742-3be0-4f26-b8e8-834b955f7b78" width="100"></img>
 
-<img src="https://github.com/user-attachments/assets/a60ca7c5-3b00-4f19-a9a4-bf05df32c8ea" width="60"></img>
+<img src="https://github.com/user-attachments/assets/a60ca7c5-3b00-4f19-a9a4-bf05df32c8ea" width="100"></img>
 
-<img src="https://github.com/user-attachments/assets/74def030-b58e-447c-acf2-917200621582" width="60"></img>
+<img src="https://github.com/user-attachments/assets/74def030-b58e-447c-acf2-917200621582" width="100"></img>
 
 
 
